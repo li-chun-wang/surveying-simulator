@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # surveying-simulator
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,6 @@ pnpm dev
 ```sh
 pnpm build
 ```
+=======
+# surveying-simulator
+>>>>>>> 0cfe08bfb354a5e58ea1fb852fbcb2799499ac92
